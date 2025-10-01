@@ -16,7 +16,7 @@ Para no comenzar desde cero y poder familiarizarnos con el desarrollo de juegos 
 > Nota: No necesitas instalar librerías externas; el módulo `turtle` forma parte de la biblioteca estándar de Python.
 
 ## Comienza ejecutando y realizando algunos cambios
-Para comenzar a entender el código de la demo, para ello genera otra versión del videojuego en el que haya 2 tortugas, una roja y una azul, compitiendo en el mismo carril
+Para comenzar a entender el código de la demo, para ello genera otra versión del videojuego en el que haya 4 tortugas, una amarilla y una verde, compitiendo en dos carriles
 
 ## Ejercicio: Completa `full_game.py`.
 
